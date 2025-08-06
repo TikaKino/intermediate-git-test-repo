@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 
-def plot_buoy_data(figure_name):
+def plot_data(figure_name):
     '''
     plots a map of the data buoys found in the data/data_buoys.csv file.
     Uses data/north_atlantic.geojson as a boundary of the atlantic ocean.
