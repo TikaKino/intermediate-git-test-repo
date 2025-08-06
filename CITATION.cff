@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Intermediate GIT Tools workshop repository
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mikael
+    family-names: Suominen
+    affiliation: National Oceanography Centre
+    email: mikael.suominen@noc.ac.uk
+repository-code: >-
+  https://github.com/TikaKino/intermediate-git-test-repo?tab=readme-ov-file
+abstract: >-
+  Tool to generate plots of buoys around the UK, used as a
+  base for a git course
+keywords:
+  - buoys
+license: Apache-2.0
